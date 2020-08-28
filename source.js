@@ -31,9 +31,7 @@ function between(min, max) {
 }
 var servcount = NaN;
 //Login and stuff
-client.login("NzQwMjQyODgyODg3MTU1ODY3.XymK6A.UnXdcaCnoYhNlwSx2AeiqxoN8-I");
-//Recall the bot so it won't turn off 😈
-https.get("https://tya-discord-bot.glitch.me");
+client.login("TOKEN");
 function updatestatus() {
   if (switcher == 0) {
     client.user.setActivity("starting...");
