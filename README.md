@@ -10,4 +10,4 @@ write this command and hit enter:
 When you see [done],click close and then your project is ready!<br>
 Notice: You have limited runtime amounts.<br>
 **Setup**:<br>
-First,replace TOKEN with the token you got from discord developer portal,then replace NAME with the bot's name.
+First,replace TOKEN with the token you got from discord developer portal,then you can replace good ghost and my tag with anything you want.
